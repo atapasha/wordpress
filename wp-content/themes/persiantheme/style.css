@@ -1,0 +1,25 @@
+/* 
+ Theme Name: Persian Theme
+ Author: Ata Pasha
+
+ Author URI:https://persian-itech.com
+ 
+ 
+ */
+
+body {
+  direction: rtl;
+  text-align: right;
+}
+
+header .container {
+  height: 100px;
+  background: #1b1e21;
+}
+.top-bar {
+  display: flex;
+}
+
+header .container {
+  display: flex;
+}
